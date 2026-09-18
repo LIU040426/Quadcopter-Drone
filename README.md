@@ -20,7 +20,6 @@ ESC line to the bottom board of the F450 frame. The after soldering picture is s
 
 ![1789746957483](images/README/1789746957483.png)
 
-
 Be Careful soldering each line in a correct pad. This F450 board has the + and - label to make sure it. After that, use the multimeter to test them.
 
 After that, connect the battery to battery line and connect the ESC and brushless motor. It is shown below:
@@ -38,3 +37,13 @@ We can use the hot glue gun to cover the exposed solder joint we make sure it is
 After that, we can test it with multimeter again and contribute the frame.
 
 ![1789747628484](images/README/1789747628484.png)
+
+
+
+
+
+
+## Mission Planner
+
+
+The software download link is: [Mission Planner](https://ardupilot.org/planner/docs/mission-planner-installation.html)
