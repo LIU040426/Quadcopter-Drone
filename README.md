@@ -101,5 +101,5 @@ Set the flight mode.
 
 Set the battery setting.
 <div align="center">
-  <img src="picture/Battery_setting.png width="400">
+  <img src="picture/Battery_setting.png" width="400">
 </div>
